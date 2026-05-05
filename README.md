@@ -153,7 +153,6 @@ const fadjrin = {
   </picture>
 </p>
 
-> Snake animation akan muncul setelah workflow **Generate Snake** berhasil membuat branch `output`.
 
 ---
 
